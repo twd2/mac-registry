@@ -6,11 +6,15 @@ MAC address blocks assigned to us are:
 --
 
 8C-1F-64-69-1
-0-00    Router Tester #0 Control
-0-01    Router Tester #0 Interface 0
-0-02    Router Tester #0 Interface 1
-0-03    Router Tester #0 Interface 2
-0-04    Router Tester #0 Interface 3
+0-00    Router Tester 0 Control
+0-01    Router Tester 0 Interface 0
+0-02    Router Tester 0 Interface 1
+0-03    Router Tester 0 Interface 2
+0-04    Router Tester 0 Interface 3
+0-05    Example Router Interface 0
+0-06    Example Router Interface 1
+0-07    Example Router Interface 2
+0-08    Example Router Interface 3
 ....    Reserved
 0-10    TANLabs Group 0 Board 0 Interface 0
 0-11    TANLabs Group 0 Board 0 Interface 1
